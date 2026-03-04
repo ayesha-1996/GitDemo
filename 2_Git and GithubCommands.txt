@@ -1,0 +1,28 @@
+Git >> Version control
+    v1
+    v2
+    v3
+    new v4
+
+>> It is distributed (on Cloud)
+>> Collaboration
+>> Tracking Changes
+>> Recovery
+
+http://git-scm.com/downloads
+
+Github
+BitBucket
+GitLabs
+GitPod
+
+    >>For 1st time need to configure github in our system
+    git config --global user.name "ayesha-1996"
+    git config --global user.email "ayeshasiddiqhahn@gmail.com"
+    git config --global color.ui Auto
+
+Mandatory Commands:
+    git init
+
+    >>git pull origin main
+    

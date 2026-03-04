@@ -1,0 +1,86 @@
+MEAN Stack
+    >>M: Mongo DB
+    >>E: Express JS
+    >>A: Angular
+    >>N: Node JS
+
+Three Pillars
+    >> HTML(Hypertext Markup Language)
+    >> CSS(Cascading Style Sheets)
+    >> JS(Java Script)
+
+Other Stack
+   >> MEAN, MERN, Java Full Stack
+
+Web Dev
+    >> Building/Developers Team
+    >> Testing team (Manual testers/Automated testers)
+    >> Hosting team (DevOps team) 
+    >> Maintenance team/ Support team
+
+SDLC(Software Development Life Cycle):
+    >> Waterfall Model
+    >> Agile Model
+    >> Spiral Model
+    >> Iterative Model
+    >> Incremental Model
+    >> V Shaped Model
+    >> RAD(Rapid Application Development) Model
+
+URL(Uniform Resource Locator)
+    >>http://www.instagram.com/
+    >>https://educator.rohanAcademy.edu/FullStack
+
+    https:Protocol
+    rohan Academy:Server/Domain Name
+    education:Sub-Domain
+    .edu:TLD(Top Level Domain)
+    FullStack:Path/Location
+
+Protocol:
+    >>Set of rules/instructions
+        http:Hypertext transfer Protocol
+        https:Hypertext transfer protocol secure
+        tcp:transmission control protocol
+        udp:user datagram protocol
+        smtp:simple mail transfer protocol
+        ftp:fule transfer protocol
+        ip:internet protocol(ipv4 and ipv6)
+            >>Client/Webpage-----(uName & uPwd)-----> instagram Server
+            >>SSL(Secure socket layer) Certification
+
+Server/Domain Nmae:
+    >>Unique Identifier
+        >>Eg: Google, Amazon
+
+Sub-Domain
+    >> gMeet
+    >> gMaps
+    >> gDrive
+    >> Gmail
+    >> gPhotos
+    >> gFiles
+    >> gChrome
+    >> gCalendar
+    >> gPay
+
+    >>Amazon Shopping
+    >>AWS
+
+TLD(Top Level Domain)
+    amazon.in(India)
+    amazon.com(Commercial)
+    amazon.edu(education)
+    amazon.org(organization)
+    amazon.uk(united kingdom)
+
+Offline Editors
+    >> Notepad
+    >> Notepad++
+    >> Sublime
+    >> Open Brackets
+    >> VS code
+
+Online Editors
+    >> Code Space
+    >> Code Sandbox
